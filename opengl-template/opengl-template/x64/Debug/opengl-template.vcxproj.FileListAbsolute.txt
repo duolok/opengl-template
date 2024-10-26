@@ -1,2 +1,0 @@
-C:\Users\Deku\source\repos\opengl-template\x64\Debug\glew32.dll
-C:\Users\Deku\Desktop\opengl-template\opengl-template\x64\Debug\glew32.dll
